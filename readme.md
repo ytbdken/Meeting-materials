@@ -7,6 +7,8 @@
 
 [1.ヒアリング](hearing.md)
 
+[2.ヒアリング（雑談）](hearing2.md)
+
 
 よつばデザイン　後藤賢司
 http://yotsuba-d.com
